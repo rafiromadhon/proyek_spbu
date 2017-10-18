@@ -1,0 +1,96 @@
+.contact h1 {
+	padding-top: 30px;
+	margin-bottom: 80px;
+	font-weight: bold;
+}
+
+#kiri {
+	padding-top: 15px;
+}
+
+.contact button {
+	border: 1px solid #6666cc;
+	color: #ffffff;
+	padding: 10px 30px;
+	background-color: #6666cc; 
+	transition: 0.2s;
+}
+
+.contact button:hover {
+	border: 1px solid #6666cc;
+	color: #6666cc;
+	background-color: #ffffff; 
+}
+
+.contact button:active {
+	border: 1px solid #6666cc;
+	color: #ffffff;
+	background-color: #6666cc; 
+}
+
+.box-icon-2 {
+	font-size: 20px;
+	line-height: 50px;
+	width: 50px;
+	height: 50px;
+	background-color: transparent;
+	position: relative;
+	overflow: hidden;
+	border-radius: 50%;
+	border: 1px solid #6666cc;
+	text-align: center;
+	margin: 0px 0px;
+	color: #6666cc;
+}
+
+.contact p {
+	padding-top: 5px;
+}
+
+.atas {
+	margin-bottom: 50px;
+}
+
+.box-icon-3 {
+	font-size: 20px;
+	line-height: 50px;
+	width: 50px;
+	height: 50px;
+	background-color: #f7f4f4;
+	position: relative;
+	overflow: hidden;
+	border-radius: 3px;
+	border: 1px solid #f7f4f4;
+	text-align: center;
+	margin: 0px 0px;
+	color: #6666cc;
+	transition: 0.3s;
+}
+
+.box-icon-3:hover {
+	background-color: #6666cc;
+	border: 1px solid #6666cc;
+	color: #ffffff;
+}
+#sosmed ul {
+	position: relative;
+	margin-left: 0px;
+}
+
+#sosmed li {
+	display: inline-block;
+	margin-right: 10px;
+}
+
+#bawah {
+	padding-top: 10px;
+}
+
+.parag {
+	padding: 10px 0px;
+	padding-top: 15px; 
+}
+
+.contact {
+	margin-bottom: 30px;
+}
