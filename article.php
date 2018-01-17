@@ -15,7 +15,7 @@
 </head>
 <body>
 	<!-- navbar Brad -->
-	<nav class="navbar navbar-inverse navbar-fixed-top">
+	<nav class="navbar navbar-inverse navbar-fixed-top" id="nav">
 		<div class="container">
 			<div class="navbar-header">
 
@@ -26,14 +26,14 @@
 					<span class="icon-bar"></span>
 				</button>
 
-				<a href="index.php" class="navbar-brand page-scroll"><img id="logo-navbar" src="img/logoprima.png"></a>
+				<a href="index.php" class="navbar-brand"><img id="logo-navbar" src="img/logo-nav.png"></a>
 			</div>
 
 			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 				<ul class="nav navbar-nav navbar-right">
-					<li><a href="index.php">Home</a></li>
+					<li><a href="index.php">Beranda</a></li>
 					<li><a href="about.php">Tentang</a></li>
-					<li><a href="#">Artikel</a></li>
+					<li class="active"><a href="#">Artikel</a></li>
 					<li><a href="gallery.php">Galeri</a></li>
 					<li><a href="contact.php">Kontak</a></li>
 				</ul>
@@ -46,13 +46,19 @@
 	<section class="article" id="article">
 		<div class="container">
 			<div class="row">
+				<div class="col-sm-12 text-center">
+					<div class="box-icon">
+						<i class="fa fa-book"></i>
+					</div>
+					<h1>Selamat Datang di Blog SPBU Muri Tegal</h1>
+				</div>
+			</div>
+			<div class="row">
 				<div class="col-sm-8">
 					<div class="article-1" href="#">
 						<img src="img/mantap1.jpg">
-						<h2 class="text-left" id="content">Article Title</h2>
-						<p class="text-justify" id="content">Article Content Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-							Suspendisse a impperdiet nisl. Aliquam erat volutpat. Morbi nec odio vehicula 
-							neque fa ucibus condimentum. 
+						<h2 class="text-left" id="content"><a href="#">Bupati Tegal renang di SPBU Muri</a></h2>
+						<p class="text-justify" id="content">Inilah salah satu keunggulan SPBU Muri. SPBU kok ada kolam renangnya. Ya beginilah. SPBU kelas atas. Ibu Maesaroh Bupati Tegal. . . 
 						</p>
 						<div class="bawah">
 							<a id="list" href="#"><p><i class="fa fa-calendar"></i><small>12 November 2017</small></p></a>
@@ -63,10 +69,8 @@
 					</div>
 					<div class="article-1">
 						<img src="img/mantap1.jpg">
-						<h2 class="text-left" id="content">Article Title</h2>
-						<p class="text-justify" id="content">Article Content Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-							Suspendisse a impperdiet nisl. Aliquam erat volutpat. Morbi nec odio vehicula 
-							neque fa ucibus condimentum. 
+						<h2 class="text-left" id="content"><a href="">"Unique", Kata bule yang sedang berlibur di Tegal</a></h2>
+						<p class="text-justify" id="content">Inilah salah satu keunggulan SPBU Muri. SPBU kok ada kolam renangnya. Ya beginilah. SPBU kelas atas. Dacre Montgomery turis asal Australia ini. . .
 						</p>
 						<div class="bawah">
 							<a id="list" href="#"><p><i class="fa fa-calendar"></i><small>12 November 2017</small></p></a>
@@ -79,6 +83,7 @@
 
 				<div class="col-sm-4">
 					<div class="form-group">
+						<h3 class="text-left">Cari</h3>
 						<div class="place">
 							<input type="text" placeholder="Cari disini. . .">
 							<a href="#"><i class="fa fa-search"></i></a>

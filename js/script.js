@@ -1,19 +1,40 @@
+// munculkan tombol pojok kanan bawah
+$(window).scroll(function(){
+	if ($(this).scrollTop() > 900) {
+		$('.page-scroll').fadeIn();
+	}
+	else {
+		$('.page-scroll').fadeOut();	
+	}
+	console.log(this);
+});
+
 // event pada saat link
-$('.page-scroll').on('click', function(){
+$('.page-scroll').on('click', function(e){
 
 	//ambil isi href
-	var tujuan = $(this).attr('href');
+	//var tujuan = $(this).attr('href');
 	// tangkap element yang bersangkutan
-	var elementujuan = $(tujuan);
+	//var elementujuan = $(tujuan);
 	
 	// pindahkan scroll
-	$('html').animate({
-		scrollTop: elementujuan.offset().top -50
+	$('html, body').animate({ 
+		scrollTop: 0
 	}, 2000, 'easeInOutExpo');
 
 	e.preventDefault();
 
+});
 
+//navbar background
+$(window).scroll(function(){
+	if ($(this).scrollTop() > 400) {
+		$('.navbar-inverse').addClass('muncul');
+	}
+	else if ($(this).scrollTop() < 400) {
+		$('.navbar-inverse').removeClass('muncul');
+	}
+	console.log(this);
 });
 
 //parallax mamen
@@ -41,5 +62,13 @@ $(window).scroll(function() {
 		});
 	};
 	
+});
 
+//
+$(window).on('load', function() {
+	$('.gallery #item').each(function(i) {
+			setTimeout(function() {
+				$ ('.gallery #item').eq(i).addClass('muncul');
+			}, 300 * (i+1));
+		});
 });

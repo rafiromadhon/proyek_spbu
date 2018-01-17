@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Artikel</title>
+    <title>Kontak</title>
 
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
@@ -15,7 +15,7 @@
 </head>
 <body>
     <!-- navbar Brad -->
-    <nav class="navbar navbar-inverse navbar-fixed-top">
+    <nav class="navbar navbar-inverse navbar-fixed-top" id="nav">
         <div class="container">
             <div class="navbar-header">
 
@@ -26,16 +26,16 @@
                     <span class="icon-bar"></span>
                 </button>
 
-                <a href="index.php" class="navbar-brand page-scroll"><img id="logo-navbar" src="img/logoprima.png"></a>
+                <a href="index.php" class="navbar-brand"><img id="logo-navbar" src="img/logo-nav.png"></a>
             </div>
 
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-                    <li><a href="index.php">Home</a></li>
+                    <li><a href="index.php">Beranda</a></li>
                     <li><a href="about.php">Tentang</a></li>
                     <li><a href="article.php">Artikel</a></li>
                     <li><a href="gallery.php">Galeri</a></li>
-                    <li><a href="#">Kontak</a></li>
+                    <li class="active"><a href="#">Kontak</a></li>
                 </ul>
             </div>
         </div>
@@ -48,6 +48,8 @@
             <div class="row">
                 <div class="col-sm-12 text-center">
                     <h1>Kontak Kami</h1>
+                    <hr>
+                    <p class="sub-judul">Untuk menghubungi SPBU Muri Tegal. Isilah form dibawah ini</p>
                 </div>
             </div>
             <div class="row">

@@ -1,9 +1,69 @@
+@font-face{
+    font-family: Lato-Regular;
+    src : url(../fonts/montserrat/Montserrat-Regular.otf);
+}
+
+@font-face{
+    font-family: Montserrat-ExtraLight;
+    src : url(../fonts/montserrat/Montserrat-ExtraLight.otf);
+}
+
+@font-face{
+    font-family: Montserrat-Light;
+    src : url(../fonts/montserrat/Montserrat-Light.otf);
+}
+
+@font-face{
+    font-family: Montserrat-Bold;
+    src : url(../fonts/montserrat/Montserrat-Bold.otf);
+}
+
+@font-face{
+    font-family: Montserrat-Medium;
+    src : url(../fonts/montserrat/Montserrat-Medium.otf);
+}
+
 body {
-	padding-top: 100px;
+	padding-top: 150px;
+}
+
+#nav {
+	background-color: #6767fa;
+}
+
+.box-icon {
+	margin-bottom: 15px;
+}
+
+.box-icon:hover {
+	background-color: transparent;
+	color: #6767fa;
+}
+
+.article h1 {
+	margin-bottom: 70px;
+}
+
+.article-1 a {
+	text-decoration: none;
+	color: #393939;
+	transition: .3s;
+}
+
+.article a:hover {
+	color: green;
+}
+
+.article h3 {
+	margin-top: 0px;
+}
+
+.article h4 {
+	font-family: 'Montserrat-Light';
 }
 
 .article-1 {
-	border: 1px solid #6666cc;
+	border: 1px solid #6767fa;
 	margin-bottom: 20px;
 }
 
@@ -21,7 +81,7 @@ body {
 }
 
 .bawah {
-	background-color: #6666cc;
+	background-color: #6767fa;
 }
 
 #list {
@@ -40,15 +100,11 @@ body {
 	margin-right: 10px;
 }
 
-.parag {
-	padding: 10px 0px;
-	padding-top: 15px; 
-}
-
 .place {
-	background-color: #6666cc;
+	background-color: #6767fa;
 	padding: 10px 10px;
 	border-radius: 3px;
+	font-family: 'Montserrat-Light';
 }
 
 .place input {
@@ -72,16 +128,16 @@ body {
 }
 
 .tag small {
-	background-color: #6666cc;
+	background-color: #6767fa;
 	padding: 7px 7px;
 	color: #fff;
-	border: 0.5px solid #6666cc;
+	border: 0.5px solid #6767fa;
 	border-radius: 3px;
 }
 
 .tag small:active {
 	background-color: #fff;
-	color: #6666cc;
+	color: #6767fa;
 }
 
 #list1 {
