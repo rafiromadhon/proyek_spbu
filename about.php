@@ -5,7 +5,9 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<title>Tentang Kami</title>
+	<title>Tentang - SPBU MURI Tegal</title>
+
+	<link rel="icon" type="image/png" href="img/icon/icon.png">
 
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
@@ -68,10 +70,10 @@
 						Dengan adanya beraneka ragam fasilitas yang memadai SPBU Muri menjadi tempat tujuan pariwisata dan tempat pertemuan (meeting point ) bagi para pelancong atau yang sekedar  melintas jalur pantura.
 					</p>
 					<p>
-						Sebagai SPBU terbaik , selain mengutamakan kenyamanan pelanggan juga memperhatikan kualitas dan kwatitas BBM itu sendiri, dengan membuktikan sebagai SPBU tingkat EXCELLENT . dengan pencapaian keberhasilan tersebut suatu tantangan yang harus dihadapi untuk mempertahankan prestasi.
+						Sebagai SPBU terbaik , selain mengutamakan kenyamanan pelanggan juga memperhatikan kualitas dan kwatitas BBM itu sendiri, dengan membuktikan sebagai SPBU tingkat PASTI PRIMA. dengan pencapaian keberhasilan tersebut suatu tantangan yang harus dihadapi untuk mempertahankan prestasi.
 					</p>
 					<p>
-						Masukan dan kritik yang mendukung dalam pencapaian tujuan SPBU Muri menjadi SPBU yang terbaik dalam pelayanan tidak lepas dari pelanggan kami tercinta.
+						Masukkan dan kritik yang mendukung dalam pencapaian tujuan SPBU Muri menjadi SPBU yang terbaik dalam pelayanan tidak lepas dari pelanggan kami tercinta.
 					</p>
 				</div>
 			</div>
@@ -108,21 +110,34 @@
 			</div>
 
 			<div class="row">
+				<div class="col-sm-12 text-center">
+					<h2 id="title-2">Video Profil Kami</h2>
+				</div>
+			</div>
+			<div class="row" id="iframe">
+				<div class="col-sm-6 col-sm-offset-3 text-center">
+					<div class="embed-responsive embed-responsive-16by9">
+						<iframe src="https://www.youtube.com/embed/vEhcYWT80_w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
 				<div class="text-center">
 					<div class="col-sm-12">
 						<h2 id="title-2">Pencapaian Kami</h2>
 					</div>
 					<div class="col-sm-4">
 						<img id="pic_bottom" class="left" src="img/pic_bottom2.png">
-						<h4>Best SPBU of the Years 2014</h4>
+						<h4>MURI Pengusaha Wanita Tertua Tahun 2003</h4>
 					</div>
 					<div class="col-sm-4">
 						<img id="pic_bottom" class="middle" src="img/pic_bottom2.png">
-						<h4>Best SPBU of the Years 2015</h4>
+						<h4>SPBU Terbaik I Tahun 2014</h4>
 					</div>
 					<div class="col-sm-4">
 						<img id="pic_bottom" class="right" src="img/pic_bottom2.png">
-						<h4>Best SPBU of the Years 2016</h4>
+						<h4>MURI Toilet Terbanyak Tahun 2004</h4>
 					</div>
 				</div>
 			</div>
@@ -136,15 +151,19 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-12 text-center">
-					<p class="parag">&copy; 2017 Copyright SPBU Muri Tegal. All right reserved</p>
+					<p class="parag">&copy; 2018 Copyright SPBU Muri Tegal. All right reserved</p>
 				</div>
 			</div>
 		</div>
 	</footer>
 	<!-- End Footer -->
 
+	<!-- ScrollTop -->
+	<a href="#" class="page-scroll"></a>
+
 	<script type="text/javascript" src="js/jquery.js"></script>
 	<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
 	<script src="js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="js/script.js"></script>
 </body>
 </html>

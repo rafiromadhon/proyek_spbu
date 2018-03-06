@@ -1,9 +1,11 @@
 <!DOCTYPE HTML>
 <head>
-	<meta http-equiv="content-type" content="text/html" />
+    <meta http-equiv="content-type" content="text/html" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
-    <title>Galeri</title>
+    <title>Galeri - SPBU MURI Tegal</title>
+
+    <link rel="icon" type="image/png" href="img/icon/icon.png">
     
     <!-- CSS Bootstrap -->
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
@@ -56,203 +58,300 @@
                 <div class="row">
                     <div class="col-md-4" id="item">
                         <div class="well">
-                            <a class="example-image-link" href="img/galleries/gambar_0.jpg" data-lightbox="example-set" data-title="Caption Images"><img class="thumbnail img-responsive" alt="Bootstrap template" src="img/galleries/gambar_0.jpg" /></a>
+                            <a class="example-image-link" href="img/galleries/gambar_0.JPG" data-lightbox="example-set" data-title="Toko Oleh-Oleh Khas Tegal"><img class="thumbnail img-responsive" alt="gambar_0.JPG" src="img/galleries/gambar_0.JPG" /></a>
                         </div>
                     </div>
                     <div class="col-md-4" id="item">
                         <div class="well">
-                            <a class="example-image-link" href="img/galleries/gambar_1.jpg" data-lightbox="example-set" data-title="Caption Images"><img class="thumbnail img-responsive" alt="Bootstrap template" src="img/galleries/gambar_1.jpg" /></a>
+                            <a class="example-image-link" href="img/galleries/gambar_1.JPG" data-lightbox="example-set" data-title="Cafetaria"><img class="thumbnail img-responsive" alt="gambar_1.JPG" src="img/galleries/gambar_1.JPG" /></a>
                         </div>
                     </div>
                     <div class="col-md-4" id="item">
                         <div class="well">
-                            <a class="example-image-link" href="img/galleries/gambar_2.jpg" data-lightbox="example-set" data-title="Caption Images"><img class="thumbnail img-responsive" alt="Bootstrap template" src="img/galleries/gambar_2.jpg" /></a>
+                            <a class="example-image-link" href="img/galleries/gambar_2.JPG" data-lightbox="example-set" data-title="Oleh-oleh Khas Tegal"><img class="thumbnail img-responsive" alt="gambar_2.JPG" src="img/galleries/gambar_2.JPG" /></a>
                         </div>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-md-4" id="item">
                         <div class="well">
-                            <a class="example-image-link" href="img/galleries/gambar_2_2.jpg" data-lightbox="example-set" data-title="Caption Images"><img class="thumbnail img-responsive" alt="Bootstrap template" src="img/galleries/gambar_2_2.jpg" /></a>
+                            <a class="example-image-link" href="img/galleries/gambar_2_2.JPG" data-lightbox="example-set" data-title="Softdrink"><img class="thumbnail img-responsive" alt="gambar_2_2.JPG" src="img/galleries/gambar_2_2.JPG" /></a>
                         </div>
                     </div>
                     <div class="col-md-4" id="item">
                         <div class="well">
-                            <a class="example-image-link" href="img/galleries/gambar_3.jpg" data-lightbox="example-set" data-title="Caption Images"><img class="thumbnail img-responsive" alt="Bootstrap template" src="img/galleries/gambar_3.jpg" /></a>
+                            <a class="example-image-link" href="img/galleries/gambar_3.JPG" data-lightbox="example-set" data-title="Oleh-oleh Khas Tegal"><img class="thumbnail img-responsive" alt="gambar_3.JPG" src="img/galleries/gambar_3.JPG" /></a>
                         </div>
                     </div>
                     <div class="col-md-4" id="item">
                         <div class="well">
-                            <a class="example-image-link" href="img/galleries/gambar_4.jpg" data-lightbox="example-set" data-title="Caption Images"><img class="thumbnail img-responsive" alt="Bootstrap template" src="img/galleries/gambar_4.jpg" /></a>
+                            <a class="example-image-link" href="img/galleries/gambar_4.JPG" data-lightbox="example-set" data-title="Toilet Pria"><img class="thumbnail img-responsive" alt="gambar_4.JPG" src="img/galleries/gambar_4.JPG" /></a>
                         </div>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-md-4" id="item">
                         <div class="well">
-                            <a class="example-image-link" href="img/galleries/gambar_5.jpg" data-lightbox="example-set" data-title="Caption Images"><img class="thumbnail img-responsive" alt="Bootstrap template" src="img/galleries/gambar_5.jpg" /></a>
+                            <a class="example-image-link" href="img/galleries/gambar_5.JPG" data-lightbox="example-set" data-title="Toilet Wanita"><img class="thumbnail img-responsive" alt="gambar_5.JPG" src="img/galleries/gambar_5.JPG" /></a>
                         </div>
                     </div>
                     <div class="col-md-4" id="item">
                         <div class="well">
-                            <a class="example-image-link" href="img/galleries/gambar_6.jpg" data-lightbox="example-set" data-title="Caption Images"><img class="thumbnail img-responsive" alt="Bootstrap template" src="img/galleries/gambar_6.jpg" /></a>
+                            <a class="example-image-link" href="img/galleries/gambar_6.JPG" data-lightbox="example-set" data-title="Tempat Cuci Tangan Wanita"><img class="thumbnail img-responsive" alt="gambar_6.JPG" src="img/galleries/gambar_6.JPG" /></a>
                         </div>
                     </div>
                     <div class="col-md-4" id="item">
                         <div class="well">
-                            <a class="example-image-link" href="img/galleries/gambar_7.jpg" data-lightbox="example-set" data-title="Caption Images"><img class="thumbnail img-responsive" alt="Bootstrap template" src="img/galleries/gambar_7.jpg" /></a>
+                            <a class="example-image-link" href="img/galleries/gambar_7.JPG" data-lightbox="example-set" data-title="Rest Area"><img class="thumbnail img-responsive" alt="gambar_7.JPG" src="img/galleries/gambar_7.JPG" /></a>
                         </div>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-md-4" id="item">
                         <div class="well">
-                            <a class="example-image-link" href="img/galleries/gambar_8.jpg" data-lightbox="example-set" data-title="Caption Images"><img class="thumbnail img-responsive" alt="Bootstrap template" src="img/galleries/gambar_8.jpg" /></a>
+                            <a class="example-image-link" href="img/galleries/gambar_8.JPG" data-lightbox="example-set" data-title="Pijat Refleksi"><img class="thumbnail img-responsive" alt="gambar_8.JPG" src="img/galleries/gambar_8.JPG" /></a>
                         </div>
                     </div>
                     <div class="col-md-4" id="item">
                         <div class="well">
-                            <a class="example-image-link" href="img/galleries/gambar_9.jpg" data-lightbox="example-set" data-title="Caption Images"><img class="thumbnail img-responsive" alt="Bootstrap template" src="img/galleries/gambar_9.jpg" /></a>
+                            <a class="example-image-link" href="img/galleries/gambar_9.JPG" data-lightbox="example-set" data-title="Kasur Pijat Refleksi"><img class="thumbnail img-responsive" alt="gambar_9.JPG" src="img/galleries/gambar_9.JPG" /></a>
                         </div>
                     </div>
                     <div class="col-md-4" id="item">
                         <div class="well">
-                            <a class="example-image-link" href="img/galleries/gambar_10.jpg" data-lightbox="example-set" data-title="Caption Images"><img class="thumbnail img-responsive" alt="Bootstrap template" src="img/galleries/gambar_10_kecil.jpg" /></a>
+                            <a class="example-image-link" href="img/galleries/gambar_10.JPG" data-lightbox="example-set" data-title="Ruang Khusus Untuk Menyusui Bayi"><img class="thumbnail img-responsive" alt="gambar_10.JPG" src="img/galleries/gambar_10_kecil.jpg" /></a>
+                        </div>
+                    </div>
+                </div>
+                <!--<div class="row">
+                    <div class="col-md-4" id="item">
+                        <div class="well">
+                            <a class="example-image-link" href="img/galleries/gambar_11.JPG" data-lightbox="example-set" data-title="Tempat Wudhu"><img class="thumbnail img-responsive" alt="gambar_11.JPG" src="img/galleries/gambar_11.JPG" /></a>
+                        </div>
+                    </div>
+                    <div class="col-md-4" id="item">
+                        <div class="well">
+                            <a class="example-image-link" href="img/galleries/gambar_12.JPG" data-lightbox="example-set" data-title="Musholla"><img class="thumbnail img-responsive" alt="gambar_12.JPG" src="img/galleries/gambar_12.JPG" /></a>
+                        </div>
+                    </div>
+                    <div class="col-md-4" id="item">
+                        <div class="well">
+                            <a class="example-image-link" href="img/galleries/gambar_13.JPG" data-lightbox="example-set" data-title="Musholla"><img class="thumbnail img-responsive" alt="gambar_13.JPG" src="img/galleries/gambar_13.JPG" /></a>
                         </div>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-md-4" id="item">
                         <div class="well">
-                            <a class="example-image-link" href="img/galleries/gambar_11.jpg" data-lightbox="example-set" data-title="Caption Images"><img class="thumbnail img-responsive" alt="Bootstrap template" src="img/galleries/gambar_11.jpg" /></a>
+                            <a class="example-image-link" href="img/galleries/gambar_14.JPG" data-lightbox="example-set" data-title="Aquarium"><img class="thumbnail img-responsive" alt="gambar_14.JPG" src="img/galleries/gambar_14.JPG" /></a>
                         </div>
                     </div>
                     <div class="col-md-4" id="item">
                         <div class="well">
-                            <a class="example-image-link" href="img/galleries/gambar_12.jpg" data-lightbox="example-set" data-title="Caption Images"><img class="thumbnail img-responsive" alt="Bootstrap template" src="img/galleries/gambar_12.jpg" /></a>
+                            <a class="example-image-link" href="img/galleries/gambar_15.JPG" data-lightbox="example-set" data-title="Food Court"><img class="thumbnail img-responsive" alt="gambar_15.JPG" src="img/galleries/gambar_15.JPG" /></a>
                         </div>
                     </div>
                     <div class="col-md-4" id="item">
                         <div class="well">
-                            <a class="example-image-link" href="img/galleries/gambar_13.jpg" data-lightbox="example-set" data-title="Caption Images"><img class="thumbnail img-responsive" alt="Bootstrap template" src="img/galleries/gambar_13.jpg" /></a>
+                            <a class="example-image-link" href="img/galleries/gambar_16.JPG" data-lightbox="example-set" data-title="Playground"><img class="thumbnail img-responsive" alt="gambar_16.JPG" src="img/galleries/gambar_16.JPG" /></a>
                         </div>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-md-4" id="item">
                         <div class="well">
-                            <a class="example-image-link" href="img/galleries/gambar_14.jpg" data-lightbox="example-set" data-title="Caption Images"><img class="thumbnail img-responsive" alt="Bootstrap template" src="img/galleries/gambar_14.jpg" /></a>
+                            <a class="example-image-link" href="img/galleries/gambar_17.JPG" data-lightbox="example-set" data-title="Kolam Renang"><img class="thumbnail img-responsive" alt="gambar_17.JPG" src="img/galleries/gambar_17.JPG" /></a>
                         </div>
                     </div>
                     <div class="col-md-4" id="item">
                         <div class="well">
-                            <a class="example-image-link" href="img/galleries/gambar_15.jpg" data-lightbox="example-set" data-title="Caption Images"><img class="thumbnail img-responsive" alt="Bootstrap template" src="img/galleries/gambar_15.jpg" /></a>
+                            <a class="example-image-link" href="img/galleries/gambar_18.JPG" data-lightbox="example-set" data-title="Kolam Renang"><img class="thumbnail img-responsive" alt="gambar_18.JPG" src="img/galleries/gambar_18.JPG" /></a>
                         </div>
                     </div>
                     <div class="col-md-4" id="item">
                         <div class="well">
-                            <a class="example-image-link" href="img/galleries/gambar_16.jpg" data-lightbox="example-set" data-title="Caption Images"><img class="thumbnail img-responsive" alt="Bootstrap template" src="img/galleries/gambar_16.jpg" /></a>
+                            <a class="example-image-link" href="img/galleries/gambar_19.JPG" data-lightbox="example-set" data-title="Kolam Renang"><img class="thumbnail img-responsive" alt="gambar_19.JPG" src="img/galleries/gambar_19.JPG" /></a>
                         </div>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-md-4" id="item">
                         <div class="well">
-                            <a class="example-image-link" href="img/galleries/gambar_17.jpg" data-lightbox="example-set" data-title="Caption Images"><img class="thumbnail img-responsive" alt="Bootstrap template" src="img/galleries/gambar_17.jpg" /></a>
+                            <a class="example-image-link" href="img/galleries/gambar_20.JPG" data-lightbox="example-set" data-title="Piagam Penghargaan"><img class="thumbnail img-responsive" alt="gambar_20.JPG" src="img/galleries/gambar_20_kecil.jpg" /></a>
                         </div>
                     </div>
                     <div class="col-md-4" id="item">
                         <div class="well">
-                            <a class="example-image-link" href="img/galleries/gambar_18.jpg" data-lightbox="example-set" data-title="Caption Images"><img class="thumbnail img-responsive" alt="Bootstrap template" src="img/galleries/gambar_18.jpg" /></a>
+                            <a class="example-image-link" href="img/galleries/gambar_21.JPG" data-lightbox="example-set" data-title="Piagam Penghargaan"><img class="thumbnail img-responsive" alt="gambar_21.JPG" src="img/galleries/gambar_21_kecil.jpg" /></a>
                         </div>
                     </div>
                     <div class="col-md-4" id="item">
                         <div class="well">
-                            <a class="example-image-link" href="img/galleries/gambar_19.jpg" data-lightbox="example-set" data-title="Caption Images"><img class="thumbnail img-responsive" alt="Bootstrap template" src="img/galleries/gambar_19.jpg" /></a>
+                            <a class="example-image-link" href="img/galleries/gambar_22.JPG" data-lightbox="example-set" data-title="Penghargaan Sebagai SPBU Terbaik"><img class="thumbnail img-responsive" alt="gambar_22.JPG" src="img/galleries/gambar_22_kecil.jpg" /></a>
                         </div>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-md-4" id="item">
                         <div class="well">
-                            <a class="example-image-link" href="img/galleries/gambar_20.jpg" data-lightbox="example-set" data-title="Caption Images"><img class="thumbnail img-responsive" alt="Bootstrap template" src="img/galleries/gambar_20_kecil.jpg" /></a>
+                            <a class="example-image-link" href="img/galleries/gambar_23.JPG" data-lightbox="example-set" data-title="Piagam Penghargaan"><img class="thumbnail img-responsive" alt="img/galleries/gambar_23.JPG" src="img/galleries/gambar_23.JPG" /></a>
                         </div>
                     </div>
                     <div class="col-md-4" id="item">
                         <div class="well">
-                            <a class="example-image-link" href="img/galleries/gambar_21.jpg" data-lightbox="example-set" data-title="Caption Images"><img class="thumbnail img-responsive" alt="Bootstrap template" src="img/galleries/gambar_21_kecil.jpg" /></a>
+                            <a class="example-image-link" href="img/galleries/gambar_24.JPG" data-lightbox="example-set" data-title="Piagam Penghargaan"><img class="thumbnail img-responsive" alt="gambar_24.JPG" src="img/galleries/gambar_24.JPG" /></a>
                         </div>
                     </div>
                     <div class="col-md-4" id="item">
                         <div class="well">
-                            <a class="example-image-link" href="img/galleries/gambar_22.jpg" data-lightbox="example-set" data-title="Caption Images"><img class="thumbnail img-responsive" alt="Bootstrap template" src="img/galleries/gambar_22_kecil.jpg" /></a>
+                            <a class="example-image-link" href="img/galleries/gambar_25.JPG" data-lightbox="example-set" data-title="Piagam Penghargaan"><img class="thumbnail img-responsive" alt="gambar_25.JPG" src="img/galleries/gambar_25.JPG" /></a>
                         </div>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-md-4" id="item">
                         <div class="well">
-                            <a class="example-image-link" href="img/galleries/gambar_23.jpg" data-lightbox="example-set" data-title="Caption Images"><img class="thumbnail img-responsive" alt="Bootstrap template" src="img/galleries/gambar_23.jpg" /></a>
+                            <a class="example-image-link" href="img/galleries/gambar_26.JPG" data-lightbox="example-set" data-title="Piagam Penghargaan"><img class="thumbnail img-responsive" alt="gambar_26.JPG" src="img/galleries/gambar_26.JPG" /></a>
                         </div>
                     </div>
                     <div class="col-md-4" id="item">
                         <div class="well">
-                            <a class="example-image-link" href="img/galleries/gambar_24.jpg" data-lightbox="example-set" data-title="Caption Images"><img class="thumbnail img-responsive" alt="Bootstrap template" src="img/galleries/gambar_24.jpg" /></a>
+                            <a class="example-image-link" href="img/galleries/gambar_27.JPG" data-lightbox="example-set" data-title="Sertifikat Penghargaan"><img class="thumbnail img-responsive" alt="gambar_27.JPG" src="img/galleries/gambar_27_kecil.jpg" /></a>
                         </div>
                     </div>
                     <div class="col-md-4" id="item">
                         <div class="well">
-                            <a class="example-image-link" href="img/galleries/gambar_25.jpg" data-lightbox="example-set" data-title="Caption Images"><img class="thumbnail img-responsive" alt="Bootstrap template" src="img/galleries/gambar_25.jpg" /></a>
+                            <a class="example-image-link" href="img/galleries/gambar_28.JPG" data-lightbox="example-set" data-title="Piala Penghargaan"><img class="thumbnail img-responsive" alt="gambar_28.JPG" src="img/galleries/gambar_28_kecil.jpg" /></a>
                         </div>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-md-4" id="item">
                         <div class="well">
-                            <a class="example-image-link" href="img/galleries/gambar_26.jpg" data-lightbox="example-set" data-title="Caption Images"><img class="thumbnail img-responsive" alt="Bootstrap template" src="img/galleries/gambar_26.jpg" /></a>
+                            <a class="example-image-link" href="img/galleries/gambar_29.JPG" data-lightbox="example-set" data-title="Piala Penghargaan"><img class="thumbnail img-responsive" alt="gambar_29.JPG" src="img/galleries/gambar_29_kecil.jpg" /></a>
                         </div>
                     </div>
                     <div class="col-md-4" id="item">
                         <div class="well">
-                            <a class="example-image-link" href="img/galleries/gambar_27.jpg" data-lightbox="example-set" data-title="Caption Images"><img class="thumbnail img-responsive" alt="Bootstrap template" src="img/galleries/gambar_27_kecil.jpg" /></a>
+                            <a class="example-image-link" href="img/galleries/gambar_30.JPG" data-lightbox="example-set" data-title="Piala Penghargaan"><img class="thumbnail img-responsive" alt="gambar_30.JPG" src="img/galleries/gambar_30_kecil.jpg" /></a>
                         </div>
                     </div>
                     <div class="col-md-4" id="item">
                         <div class="well">
-                            <a class="example-image-link" href="img/galleries/gambar_28.jpg" data-lightbox="example-set" data-title="Caption Images"><img class="thumbnail img-responsive" alt="Bootstrap template" src="img/galleries/gambar_28_kecil.jpg" /></a>
+                            <a class="example-image-link" href="img/galleries/gambar_31.JPG" data-lightbox="example-set" data-title="Dinding Kenangan"><img class="thumbnail img-responsive" alt="gambar_31.JPG" src="img/galleries/gambar_31.JPG" /></a>
                         </div>
                     </div>
                 </div>
+                <div class="row">
+                    <div class="col-md-4" id="item">
+                        <div class="well">
+                            <a class="example-image-link" href="img/galleries/gambar_32.JPG" data-lightbox="example-set" data-title="LPG 5.5KG Bright Gas"><img class="thumbnail img-responsive" alt="gambar_32.JPG" src="img/galleries/gambar_32.JPG" /></a>
+                        </div>
+                    </div>
+                    <div class="col-md-4" id="item">
+                        <div class="well">
+                            <a class="example-image-link" href="img/galleries/gambar_33.JPG" data-lightbox="example-set" data-title="OIL"><img class="thumbnail img-responsive" alt="gambar_33.JPG" src="img/galleries/gambar_33.JPG" /></a>
+                        </div>
+                    </div>
+                    <div class="col-md-4" id="item">
+                        <div class="well">
+                            <a class="example-image-link" href="img/galleries/gambar_34.JPG" data-lightbox="example-set" data-title="Lube Oil"><img class="thumbnail img-responsive" alt="gambar_34.JPG" src="img/galleries/gambar_34.JPG" /></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4" id="item">
+                        <div class="well">
+                            <a class="example-image-link" href="img/galleries/gambar_35.JPG" data-lightbox="example-set" data-title="Pertamax"><img class="thumbnail img-responsive" alt="gambar_35.JPG" src="img/galleries/gambar_35.JPG" /></a>
+                        </div>
+                    </div>
+                    <div class="col-md-4" id="item">
+                        <div class="well">
+                            <a class="example-image-link" href="img/galleries/gambar_36.JPG" data-lightbox="example-set" data-title="ATM"><img class="thumbnail img-responsive" alt="gambar_36.JPG" src="img/galleries/gambar_36.JPG" /></a>
+                        </div>
+                    </div>
+                    <div class="col-md-4" id="item">
+                        <div class="well">
+                            <a class="example-image-link" href="img/galleries/gambar_37.JPG" data-lightbox="example-set" data-title="ATM"><img class="thumbnail img-responsive" alt="gambar_37.JPG" src="img/galleries/gambar_37.JPG" /></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-3" id="item">
+                        <div class="well">
+                            <a class="example-image-link" href="img/galleries/gambar_38.JPG" data-lightbox="example-set" data-title="Pasti Prima"><img class="thumbnail img-responsive" alt="gambar_38.JPG" src="img/galleries/gambar_38_kecil.jpg" /></a>
+                        </div>
+                    </div>
+                    <div class="col-md-3" id="item">
+                        <div class="well">
+                            <a class="example-image-link" href="img/galleries/gambar_39.JPG" data-lightbox="example-set" data-title="Fasilitas Air dan Angin"><img class="thumbnail img-responsive" alt="gambar_39.JPG" src="img/galleries/gambar_39_kecil.jpg" /></a>
+                        </div>
+                    </div>
+                    <div class="col-md-3" id="item">
+                        <div class="well">
+                            <a class="example-image-link" href="img/galleries/gambar_40.JPG" data-lightbox="example-set" data-title="Enduro Express"><img class="thumbnail img-responsive" alt="gambar_40.JPG" src="img/galleries/gambar_40_kecil.jpg" /></a>
+                        </div>
+                    </div>
+                    <div class="col-md-3" id="item">
+                        <div class="well">
+                            <a class="example-image-link" href="img/galleries/gambar_41.JPG" data-lightbox="example-set" data-title="Nitrogen"><img class="thumbnail img-responsive" alt="gambar_41.JPG" src="img/galleries/gambar_41_kecil.jpg" /></a>
+                        </div>
+                    </div>
+                </div>-->
             </div>
         </div>
     </section>
     <!-- End Content Gallery -->
 
-    <!-- Footer -->
-    <footer>
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-12 text-center">
-                    <p class="parag">&copy; 2017 Copyright SPBU Muri Tegal. All right reserved</p>
-                </div>
+    <!-- Pagination -->
+    <section class="page" id="page">
+        <nav aria-label="Page-navigation">
+            <div class="container text-center">
+                <ul class="pagination pagination-lg">
+                    <li class="disabled">
+                       <a href="#" aria-label="Previous">
+                           <span aria-hidden="true">&laquo;</span>
+                       </a> 
+                   </li>
+                   <li class="active"><a href="">1</a></li>
+                   <li><a href="gallery_2.php">2</a></li>
+                   <li><a href="gallery_3.php">3</a></li>
+                   <li><a href="gallery_4.php">4</a></li>
+                   <li>
+                    <a href="gallery_2.php" aria-label="Next">
+                        <span aria-hidden="true">&raquo;</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</section>
+
+<!-- Footer -->
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 text-center">
+                <p class="parag">&copy; 2018 Copyright SPBU Muri Tegal. All right reserved</p>
             </div>
         </div>
-    </footer>
-    <!-- End Footer -->
+    </div>
+</footer>
+<!-- End Footer -->
 
-    <a href="#" class="page-scroll"></a>
+<a href="#" class="page-scroll"></a>
 
 
-    
-    
-    <script type="text/javascript" src="js/jquery.js"></script>
-    <!-- jQuery Lightbox -->
-    <script src="js/lightbox-plus-jquery.min.js"></script>
-    <script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <!--<script src="js/bootstrap.js"></script>-->
-    <script src="js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="js/script.js"></script>
+
+
+<script type="text/javascript" src="js/jquery.js"></script>
+<!-- jQuery Lightbox -->
+<script src="js/lightbox-plus-jquery.min.js"></script>
+<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<!--<script src="js/bootstrap.js"></script>-->
+<script src="js/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/script.js"></script>
 </body>
 </html>
 

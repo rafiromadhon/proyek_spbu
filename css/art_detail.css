@@ -1,0 +1,119 @@
+@font-face{
+    font-family: Lato-Regular;
+    src : url(../fonts/montserrat/Montserrat-Regular.otf);
+}
+
+@font-face{
+    font-family: Montserrat-ExtraLight;
+    src : url(../fonts/montserrat/Montserrat-ExtraLight.otf);
+}
+
+@font-face{
+    font-family: Montserrat-Light;
+    src : url(../fonts/montserrat/Montserrat-Light.otf);
+}
+
+@font-face{
+    font-family: Montserrat-Bold;
+    src : url(../fonts/montserrat/Montserrat-Bold.otf);
+}
+
+@font-face{
+    font-family: Montserrat-Medium;
+    src : url(../fonts/montserrat/Montserrat-Medium.otf);
+}
+
+body {
+	padding-top: 150px;
+}
+
+#article-content {
+    margin-bottom: 35px;
+}
+
+#nav {
+	background-color: #6767fa;
+}
+
+.box-icon {
+	margin-bottom: 15px;
+}
+
+.box-icon:hover {
+	background-color: transparent;
+	color: #6767fa;
+}
+
+.article h1 {
+    margin-bottom: 70px;
+}
+
+.article-1 img {
+    max-width: 100%;
+    height: auto;
+}
+
+#content {
+    margin: 15px 10px; 
+}
+
+.article-1 span {
+    float: right;
+}
+
+
+.article-1 h5 {
+    margin-bottom: 30px;
+}
+
+.place {
+    background-color: #6767fa;
+    padding: 10px 10px;
+    border-radius: 3px;
+    font-family: 'Montserrat-Light';
+}
+
+.place input {
+    border: none;
+    background: none;
+    color: #ffffff;
+    width: 92%;
+}
+
+.place input:focus {
+    border: none;
+}
+
+.place i {
+    color: #fff;
+    opacity: 0.3;   
+}
+
+.place i:active {
+    opacity: 1;
+}
+
+.tag small {
+    background-color: #6767fa;
+    padding: 7px 7px;
+    color: #fff;
+    border: 0.5px solid #6767fa;
+    border-radius: 3px;
+}
+
+.tag small:active {
+    background-color: #fff;
+    color: #6767fa;
+}
+
+#list1 {
+    display: inline-block;
+}
+
+.tag {
+    margin-bottom: 30px;
+}
+
+#separation {
+    margin-bottom: 35px;
+}

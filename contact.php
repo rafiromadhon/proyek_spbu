@@ -5,7 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Kontak</title>
+    <title>Kontak - SPBU MURI Tegal</title>
+
+    <link rel="icon" type="image/png" href="img/icon/icon.png">
 
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
@@ -53,57 +55,86 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-sm-6 text-left" id="kiri">
-                    <div class="form-group">
-                        <label for="nama">Nama</label>
-                        <input type="text" class="form-control" placeholder="Nama Anda" required>
+                <form action="" method="post">
+                    <div class="col-sm-6 text-left" id="kiri">
+                        <div class="form-group">
+                            <label for="nama">Nama</label>
+                            <input type="text" name="name" class="form-control" placeholder="Nama Anda" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="email">Email</label>
+                            <input type="email" name="email" class="form-control" placeholder="Email Anda" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="pesan">Pesan</label>
+                            <textarea class="form-control" name="message" rows="8" placeholder="Pesan Anda"></textarea>
+                        </div>
+                        <div class="form-group">
+                            <input type="submit" id="submit" class="btn" name="save" value="KIRIM PESAN">
+                        </div>
                     </div>
-                    <div class="form-group">
-                        <label for="email">Email</label>
-                        <input type="email" class="form-control" placeholder="Email Anda" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="pesan">Pesan</label>
-                        <textarea class="form-control" rows="8" placeholder="Pesan Anda"></textarea>
-                    </div>
-                    <div class="form-group">
-                        <button class="btn" role="submit">KIRIM PESAN</button>
-                    </div>
-                </div>
+                </form>
 
-                <div class="col-sm-6 text-left" id="kanan">
+                <?php 
+
+                include('connection.php');
+
+                if(isset($_POST['save'])){
+
+                    $nama = $_POST['name'];
+                    $email = $_POST['email'];
+                    $pesan = $_POST['message'];
+
+                    $simpan = $_POST['save'];
+
+                    if ($simpan) {
+                        $sql = mysql_query("insert into contact (name, email, message) values ('$nama', '$email', '$pesan')");
+                        if ($sql) {
+                            ?>
+                            <script type="text/javascript">
+                                alert("Pesan Anda sudah direkam. Terima kasih yaa :)");
+                            </script>
+                            <?php  
+                        }
+                        
+                    }
+                }
+
+                ?>
+
+                <div class="col-sm-6" id="kanan">
                     <div class="form-group">
                         <h3>Info Kontak</h3>
                     </div>
                     <div class="atas">
                         <div class="row form-group">
-                            <div class="col-sm-2">
+                            <div class="col-sm-2 text-center">
                                 <div class="box-icon-2">
                                     <i class="fa fa-home"></i>
                                 </div>
                             </div>
                             <div class="col-sm-6">
-                                <p>Jl. DI. Pandjaitan No. 128 Tegal <br> Jawa Tengah, Indonesia</p>
+                                <p>Jl. Raya Dampyak km. 3,5 Tegal <br> Jawa Tengah, Indonesia</p>
                             </div>
                         </div>
                         <div class="row form-group">
-                            <div class="col-sm-2">
+                            <div class="col-sm-2 text-center">
                                 <div class="box-icon-2">
                                     <i class="fa fa-phone"></i>
                                 </div>
                             </div>
                             <div class="col-sm-4">
-                                <p>(0271) 596677<br>+62857 4394 5760</p>
+                                <p>(0283) 350106<br>+62856-4009-5835</p>
                             </div>
                         </div>
                         <div class="row form-group">
-                            <div class="col-sm-2">
+                            <div class="col-sm-2 text-center">
                                 <div class="box-icon-2">
                                     <i class="fa fa-envelope"></i>
                                 </div>
                             </div>
                             <div class="col-sm-6">
-                                <p id="bawah">spbumuri@gmail.com</p>
+                                <p id="bawah">spbumuri.smu@gmail.com</p>
                             </div>
                         </div>
                     </div>
@@ -148,7 +179,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-12 text-center">
-                    <p class="parag">&copy; 2017 Copyright SPBU Muri Tegal. All right reserved</p>
+                    <p class="parag">&copy; 2018 Copyright SPBU Muri Tegal. All right reserved</p>
                 </div>
             </div>
         </div>

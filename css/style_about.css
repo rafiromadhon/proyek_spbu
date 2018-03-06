@@ -83,6 +83,10 @@ body {
 	font-family: 'Montserrat-Light';
 }
 
+#iframe {
+	margin-bottom: 35px;
+}
+
 .left:hover {
 	transform : rotate(360deg);
 	transition: 1.5s;

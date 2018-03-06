@@ -50,7 +50,7 @@
 	font-family: 'Montserrat-Light';
 }
 
-.contact button {
+#submit {
 	border: 1px solid #6767fa;
 	color: #ffffff;
 	padding: 10px 30px;
@@ -58,13 +58,13 @@
 	transition: 0.2s;
 }
 
-.contact button:hover {
+#submit:hover {
 	border: 1px solid #6767fa;
 	color: #6767fa;
 	background-color: #ffffff; 
 }
 
-.contact button:active {
+#submit:active {
 	border: 1px solid #6767fa;
 	color: #ffffff;
 	background-color: #6767fa; 
@@ -76,11 +76,8 @@
 	width: 50px;
 	height: 50px;
 	background-color: transparent;
-	position: relative;
-	overflow: hidden;
 	border-radius: 50%;
 	border: 1px solid #6767fa;
-	text-align: center;
 	margin: 0px 0px;
 	color: #6767fa;
 }

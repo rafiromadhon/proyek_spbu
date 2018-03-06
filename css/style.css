@@ -1,5 +1,5 @@
 @font-face{
-    font-family: Lato-Regular;
+    font-family: Montserrat-Regular;
     src : url(../fonts/montserrat/Montserrat-Regular.otf);
 }
 
@@ -24,7 +24,7 @@
 }
 
 body {
-	font-family: Montserrat;
+	font-family: 'Montserrat-Regular';
 }
 
 h1 {
@@ -61,17 +61,8 @@ p {
 	font-family: 'Montserrat-Bold';
 }
 
-#logo-navbar {
-	max-width: 100%;
-	height: auto;
+.navbar img {
 	position: relative;
-}
-
-@media (min-width: 300px;) {
-	#logo-navbar {
-		max-width: 91px;
-		max-height: 41px;
-	}
 }
 
 .carousel-caption h1 {
@@ -432,6 +423,29 @@ footer p {
     bottom: -20px;
     right: -0px;
     background: url('../img/scroll-3.png') no-repeat 0 20px;
+}
+
+@media (max-width: 768px) {
+	.navbar img {
+		max-width: 100px;
+		height: 20px;
+	}
+
+	.left img, .right img {
+		display: none;
+	}
+
+	p, h1, h2, h3, h4, #sosmed {
+		text-align: center;
+	}
+
+	.carousel-caption h1 {
+		font-size: 30px;
+		top: 0;
+		bottom: 0;
+		right: 0;
+		left: 0;
+	}
 }
 
 /*

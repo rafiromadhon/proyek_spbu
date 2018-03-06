@@ -1,11 +1,13 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<title>Our Project</title>     
+	<title>Beranda - SPBU MURI Tegal</title>
+
+	<link rel="icon" type="image/png" href="img/icon/icon.png">
 
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
@@ -206,47 +208,44 @@
 			<div class="row" id="testi-atas">
 				<div class="col-sm-6" id="testi-content">
 					<div class="col-sm-3 text-center">
-						<img src="img/ganteng1.jpg" alt="" class="img-circle">
+						<img src="img/testimoni/ganteng1.jpg" alt="" class="img-circle">
 					</div>
 					<div class="col-sm-9 text-left">
 						<p><i class="fa fa-quote-left" id="quote"></i> Excellent. Kata yang tepat untuk diberikan kepada SPBU ini. Kalau lewat pantura, jangan cuma lewat. Mampir kesini dulu. Nyesel kalau nggak. :D <i class="fa fa-quote-right" id="quote"></i>
 						</p>
-						<h4>@rafiromadhon_</h4>
+						<h4>Rafi Nur Romadhon</h4>
 					</div>
 				</div>
 				<div class="col-sm-6" id="testi-content">
 					<div class="col-sm-3 text-center">
-						<img src="img/ganteng1.jpg" alt="" class="img-circle">
+						<img src="img/testimoni/putri2.jpg" alt="" class="img-circle">
 					</div>
 					<div class="col-sm-9 text-left">
-						<p><i class="fa fa-quote-left" id="quote"></i> Pendapat saya adalah : Lorem ipsum dolor sit amet impperdiet, consectetur adipiscing elit. 
-							Suspendisse nisl. Aliquam erat volutpat. <i class="fa fa-quote-right" id="quote"></i>
+						<p><i class="fa fa-quote-left" id="quote"></i> Keren sih ini spbunya, wcnya ada 107 wow bangeettt, ada kolam renangnya jugaa, asik banget niih.<i class="fa fa-quote-right" id="quote"></i>
 						</p>
-						<h4>@rafiromadhon_</h4>
+						<h4>Putri Kirana Nur Azizah</h4>
 					</div>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-sm-6" id="testi-content">
 					<div class="col-sm-3 text-center">
-						<img src="img/ganteng1.jpg" alt="" class="img-circle">
+						<img src="img/testimoni/tiyas2.jpg" alt="" class="img-circle">
 					</div>
 					<div class="col-sm-9 text-left">
-						<p><i class="fa fa-quote-left" id="quote"></i> Pendapat saya adalah : Lorem ipsum dolor sit amet impperdiet, consectetur adipiscing elit. 
-							Suspendisse nisl. Aliquam erat volutpat. <i class="fa fa-quote-right" id="quote"></i>
+						<p><i class="fa fa-quote-left" id="quote"></i> Sangat membantu, dengan adanya website ini memudahkan banyak pihak untuk mengetahui SPBU MURI lebih dalam dan untuk terus memperkenalkan fasilitas yang ada di SPBU muri kedepannya. <i class="fa fa-quote-right" id="quote"></i>
 						</p>
-						<h4>@rafiromadhon_</h4>
+						<h4>Tiyas Safira Muntiyah</h4>
 					</div>
 				</div>
 				<div class="col-sm-6" id="testi-content">
 					<div class="col-sm-3 text-center">
-						<img src="img/ganteng1.jpg" alt="" class="img-circle">
+						<img src="img/testimoni/usamah.jpg" alt="" class="img-circle">
 					</div>
 					<div class="col-sm-9 text-left">
-						<p><i class="fa fa-quote-left" id="quote"></i> Pendapat saya adalah : Lorem ipsum dolor sit amet impperdiet, consectetur adipiscing elit. 
-							Suspendisse nisl. Aliquam erat volutpat. <i class="fa fa-quote-right" id="quote"></i>
+						<p><i class="fa fa-quote-left" id="quote"></i> SPBU muri seperti gabungan dari tempat isi bahan bakar, rest area dan tempat rekreasi yang bersatu dengan harmoni. Sangat betah sekali rasanya ketika disini. <i class="fa fa-quote-right" id="quote"></i>
 						</p>
-						<h4>@rafiromadhon_</h4>
+						<h4>Usamah</h4>
 					</div>
 				</div>
 			</div>
@@ -262,19 +261,19 @@
 					<img src="img/logoprima.png" alt="">
 					<!--<h3>SPBU Muri</h3>-->
 					<div class="row">
-						<div class="col-sm-1">
+						<div class="col-sm-1 text-center">
 							<i class="fa fa-home"></i>
 						</div>
 						<div class="col-sm-5">
-							<p class="ket">Jl. DI. Pandjaitan No. 128 Tegal Jawa Tengah, Indonesia</p>
+							<p class="ket">Jl. Raya Dampyak km. 3,5 - Tegal</p>
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-sm-1">
+						<div class="col-sm-1 text-center">
 							<i class="fa fa-phone"></i>
 						</div>
 						<div class="col-sm-5">
-							<p class="ket">(0271) 596677 <br> +62857 4394 5760</p>
+							<p class="ket">(0283) 350106 <br> +62856-4009-5835</p>
 						</div>
 					</div>
 				</div>
@@ -284,10 +283,10 @@
 							<h4>Fasilitas</h4>
 						</div>
 						<div class="row">
-							<p><a href="">Kafe</a></p>
-							<p><a href="">Kolam Renang</a></p>
-							<p><a href="">Mushola</a></p>
-							<p><a href="">Rest Area</a></p>
+							<p><a href="#">Kafe</a></p>
+							<p><a href="#">Kolam Renang</a></p>
+							<p><a href="#">Mushola</a></p>
+							<p><a href="#">Rest Area</a></p>
 						</div>
 					</div>
 					<div class="col-sm-4">
@@ -295,10 +294,10 @@
 							<h4>Menu</h4>
 						</div>
 						<div class="row">
-							<p><a href="">Tentang Kami</a></p>
-							<p><a href="">Layanan</a></p>
-							<p><a href="">Galeri</a></p>
-							<p><a href="">Artikel</a></p>
+							<p><a href="#">Tentang Kami</a></p>
+							<p><a href="#">Layanan</a></p>
+							<p><a href="#">Galeri</a></p>
+							<p><a href="#">Artikel</a></p>
 						</div>
 					</div>
 					<div class="col-sm-4">
@@ -306,10 +305,10 @@
 							<h4>Perusahaan</h4>
 						</div>
 						<div class="row">
-							<p><a href="">Kontak Kami</a></p>
-							<p><a href="">Lokasi</a></p>
-							<p><a href="">Syarat</a></p>
-							<p><a href="">Kebijakan Privasi</a></p>
+							<p><a href="#">Kontak Kami</a></p>
+							<p><a href="#">Lokasi</a></p>
+							<p><a href="#">Syarat</a></p>
+							<p><a href="#">Kebijakan Privasi</a></p>
 						</div>
 					</div>
 				</div>
@@ -323,7 +322,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-12 text-center">
-					<p>&copy; 2017 Copyright SPBU Muri Tegal. All right reserved</p>
+					<p>&copy; 2018 Copyright SPBU Muri Tegal. All right reserved</p>
 				</div>
 			</div>
 		</div>
@@ -340,7 +339,7 @@
 	<!--<script src="js/bootstrap.js"></script>-->
 	<script src="js/bootstrap.min.js"></script>
 	<script type="text/javascript" src="js/script.js"></script>
-	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"></script>
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVtfG6JF8B5j72fe6wTzCqNWJRG6kqQJA"></script>
 	<script src="js/custom.js"></script>
 </body>
 </html>
